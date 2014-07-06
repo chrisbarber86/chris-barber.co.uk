@@ -1,0 +1,19 @@
+title: "Chris Barber - Software Developer - Newcastle upon Tyne"
+description: "An experienced software developer primarily focused on web technologies like Ruby on Rails, JavaScript, CoffeeScript, HTML, SASS"
+exclude: ["CNAME", "Gemfile", "Gemfile.lock", "README.md"]
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables"]
+defaults:
+  -
+    scope:
+      path: ""
+      type: "post"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "page"
+    values:
+      layout: "page"

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+  {% include html_header.html %}
+</head>
+<body>
+  <div id="wrapper">
+    <div id="main-content">
+      <div id="content">
+        <div id="blog-single">
+          <h3 class="title">{{ page.title }}</h3>
+          <div class="post-meta">
+            <i class="fa fa-calendar"></i><span>{{ page.date | date: "%-d %B %Y" }}</span>
+            <i class="fa fa-user"></i><span>{{ page.author }}</span>
+          </div>
+          {% if page.image %}
+            <p><img src="/images/{{ page.image }}" /></p>
+          {% endif %}
+          {{ content }}
+        </div>
+      </div>
+      {% include footer.html %}
+    </div>
+    {% include sidebar.html %}
+  </div>
+  {% include tracking.html %}
+</body>
+</html>

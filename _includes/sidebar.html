@@ -1,0 +1,17 @@
+<div id="sidebar">
+  <div class="profile-pic"></div>
+  <nav>
+    <ul class="nav">
+      {% assign selected = 'class="selected"' %}
+      <li {% if page.menu == "profile" %}{{ selected }}{% endif %}><a href="/"><i class="fa fa-user"></i>Profile</a></li>
+      <li {% if page.menu == "blog" %}
+        {{ selected }}
+      {% elsif page.id %}
+        {{ selected }}
+      {% endif %}>
+        <a href="/blog.html"><i class="fa fa-comment"></i>Blog</a>
+      </li>
+      <li {% if page.menu == "contact" %}{{ selected }}{% endif %}><a href="/contact.html"><i class="fa fa-envelope"></i>Contact</a></li>
+    </ul>
+  </nav>
+</div>
