@@ -3,4 +3,4 @@ title: Contact
 menu: contact
 ---
 
-Email: chris [at] chris-barber [dot] co [dot] uk
+Email: chris[at]chris-barber.co.uk
