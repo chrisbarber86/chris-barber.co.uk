@@ -17,6 +17,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 80px auto 0 auto;
   width: 960px;
   position: relative;
+  display: flex;
 
   @extend .cf;
 }
@@ -28,7 +29,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #sidebar {
-  background: #000;
   width: 280px;
 
   .profile-pic {
@@ -80,11 +80,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #main-content {
-  width: 680px;
+  display: flex;
+  flex-direction: column;
   margin-bottom: 0;
+  width: 680px;
 
   footer {
     background: #f1f1f1;
+    flex: 0;
     padding: 20px 30px;
     position: relative;
     @extend .cf;
@@ -100,7 +103,7 @@ h1, h2, h3, h4, h5, h6 {
     }
 
     .social {
-      width: 220px;
+      width: 210px;
       float: right;
 
       ul {
@@ -156,6 +159,7 @@ h3 {
 
 #content {
   background: #fff;
+  flex: 1;
   padding: 30px 30px 15px;
 
   a {
@@ -202,12 +206,12 @@ h3 {
     .image {
       float: left;
       width: 305px;
-      padding: 0 15px 0 0;
+      padding: 0 10px 0 0;
     }
 
     .post-details {
       float: left;
-      width: 315px;
+      width: 310px;
 
       p {
         margin: 0;
