@@ -1,0 +1,14 @@
+// Responsive layout widths
+$tiny-min: 320px;
+$tiny-max: 640px;
+$small-min: 641px;
+$small-max: 1099px;
+$medium-min: 1100px;
+$medium-max: 1169px;
+$large-width: 1170px;
+
+// Various resolution setting variables
+$tiny-resolution: "screen and (min-width:" + $tiny-min + ") and (max-width: " + $tiny-max + ")";
+$small-resolution: "screen and (min-width:" + $small-min + ") and (max-width: " + $small-max + ")";
+$medium-resolution: "screen and (min-width:" + $medium-min + ") and (max-width: " + $medium-max + ")";
+$large-resolution: "screen and (min-width:" + $large-width + ")";

@@ -1,0 +1,44 @@
+#blog {
+  padding-top: 30px;
+
+  article {
+    border-bottom: 1px solid #ededed;
+    margin-bottom: 30px;
+    padding-bottom: 22px;
+    width: 100%;
+    @extend .cf;
+
+    .image {
+      float: left;
+      width: 305px;
+      padding: 0 10px 0 0;
+    }
+
+    .post-details {
+      float: left;
+      width: 310px;
+
+      p {
+        margin: 0;
+      }
+    }
+  }
+}
+
+#blog, #blog-single {
+  .post-meta {
+    color: #a1a1a1;
+    font-size: 12px;
+    padding: 10px 0;
+
+    i {
+      margin-right: 8px;
+      color: #b6b6b6;
+      font-size: 17px;
+    }
+
+    span {
+      margin-right: 15px;
+    }
+  }
+}

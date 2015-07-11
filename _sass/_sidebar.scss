@@ -1,0 +1,50 @@
+#sidebar {
+  width: 280px;
+
+  .profile-pic {
+    background: url("/images/profile.jpg");
+    height: 260px;
+    width: 280px;
+  }
+
+  .nav {
+    margin: 0;
+    padding: 0;
+
+    li {
+      @include linear-gradient(top, (#2c383c 0%,#2a363a 100%));
+
+      border-bottom: 1px solid #222b2e;
+      position: relative;
+      list-style: none;
+      display: block;
+
+      &.selected, &:hover {
+        background: #34b233;
+
+        a, a i {
+          color: #fff !important;
+        }
+      }
+
+      a {
+        text-decoration: none;
+        padding: 24px;
+        display: table;
+        width: 100%;
+        text-align: left;
+        font-size: 17px;
+        position: relative;
+        color: #d1d1d1;
+
+        i {
+          font-size: 20px;
+          position: relative;
+          top: 1px;
+          color: #d1d1d1;
+          margin-right: 15px;
+        }
+      }
+    }
+  }
+}
