@@ -57,7 +57,7 @@ and better support for colours and the mouse.
 ## Bash Prompt
 
 To spruce up the default bash prompt in OSX, I have a custom bash file which I
-initially based on [@damian's](https://github.com/damian/) [.bash_profile](https://github.com/damian/dotfiles/blob/master/bash_profile)
+initially based on [@damian's](https://twitter.com/damian/) [.bash_profile](https://github.com/damian/dotfiles/blob/master/bash_profile)
 
 The result is a prompt which is in colour and displays the current branch when
 in a git repository along with an asterisk to denote if the current branch is
