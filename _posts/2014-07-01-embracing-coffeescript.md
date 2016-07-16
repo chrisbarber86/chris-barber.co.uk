@@ -2,6 +2,7 @@
 title: Embracing CoffeeScript
 thumb: embracing-coffeescript-thumb.png
 author: Chris
+type: posts
 ---
 
 Until quite recently, I was rather against the use of CoffeeScript. My typical responses would be, "Why would I need to use it when I already know how to do what it does for me" and "Have you seen the syntax!".

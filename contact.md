@@ -1,6 +1,7 @@
 ---
 title: Contact
 menu: contact
+type: pages
 ---
 
 Email: chris [at] chris-barber.co.uk

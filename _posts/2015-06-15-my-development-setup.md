@@ -2,6 +2,7 @@
 title: My Development Setup
 thumb: my-development-setup-thumb.png
 author: Chris
+type: posts
 ---
 
 Over the past 7 years I've been honing my development toolkit to ensure I have

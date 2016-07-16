@@ -2,6 +2,7 @@
 title: Changing Photo Timestamps
 thumb: changing-photo-timestamps.png
 author: Chris
+type: posts
 ---
 
 Recently I came back from holiday and decided to import all my holiday snaps into the OSX photos application from my Nikon D3000 DSLR. Whilst I was away I had been taking some photos on my iPhone 6 which had already synced to my mac at home via iCloud. On completing the import I noticed that the DSLR photos were out of sync with my iPhone photos. At this point I realised I had forgotten to change the timezone!

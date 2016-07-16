@@ -1,6 +1,7 @@
 ---
 layout: home
 menu: profile
+type: pages
 ---
 
 ## Hello, I am **Chris Barber**<br/>Software Development Team Leader
