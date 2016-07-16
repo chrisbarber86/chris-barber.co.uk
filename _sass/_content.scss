@@ -84,4 +84,16 @@
       text-decoration: underline;
     }
   }
+
+  ul {
+    column-count: 2;
+    column-gap: 20px;
+    list-style-position: inside;
+    padding-left: 20px;
+
+    li {
+      font-size: 15px;
+      color: #828282;
+    }
+  }
 }
