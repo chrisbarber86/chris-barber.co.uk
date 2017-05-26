@@ -1,5 +1,5 @@
-title: "Chris Barber - Software Developer - Newcastle upon Tyne"
-description: "An experienced software developer primarily focused on web technologies like Ruby on Rails, JavaScript, CoffeeScript, HTML, SASS"
+title: "Chris Barber - Software Architect - Newcastle upon Tyne"
+description: "An experienced software architect, primarily working on large scale web applications."
 exclude: ["CNAME", "Gemfile", "Gemfile.lock", "README.md"]
 markdown: kramdown
 defaults:
