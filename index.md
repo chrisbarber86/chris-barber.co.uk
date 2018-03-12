@@ -6,7 +6,7 @@ type: pages
 
 ## Hello, I am **Chris Barber**<br/>Software Architect
 
-I am an experienced software developer with over 8 years experience working in various technologies. Currently I work for [Sage UK Ltd](http://www.sage.co.uk) on the [Sage One](http://www.sageone.com) family of products as a Software Architect.
+I am an experienced software developer with over 8 years experience working in various technologies. Currently I work for [Sage UK Ltd](http://www.sage.co.uk) on the [Sage Accounting](http://www.sageone.com) family of products as a Software Architect.
 
 Leading focused and agile SCRUM teams, we are committed to a strategy of continuous improvement and releases. We primarily work on building out global features and platforms to enable and support developers in creating products for a global audience.
 
