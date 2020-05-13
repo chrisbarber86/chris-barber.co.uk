@@ -17,15 +17,13 @@ My work is primarily focused on web technologies that include;
 * Ruby
 * Ruby on Rails
 * Sinatra
+* DotNet Core
 * Git
 * JavaScript
-* CoffeeScript
-* ReactJS & Flux
+* ReactJS
 * HTML
 * CSS & SASS
-* Markdown & Textile
-* Jekyll
-* Lua
+* Markdown
 
 Alongside this, is a range of methodologies which I apply in my work;
 
@@ -39,8 +37,7 @@ As part of my work, I make use of a range of tools that include;
 * [Slack](https://slack.com)
 * [GitHub](https://www.github.com)
 * [JIRA](https://atlassian.com/software/jira)
-* [Vim](http://www.vim.org/)
-* [Textmate](https://macromates.com/)
+* [VSCode](https://code.visualstudio.com/)
 * [CodeShip](https://codeship.com/)
 * [Zoom](https://zoom.us/)
 * [Amazon Web Services](https://aws.amazon.com)
