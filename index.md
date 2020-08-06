@@ -6,39 +6,15 @@ type: pages
 
 ## Hello, I am **Chris Barber**<br/>Software Architect
 
-I am an experienced software developer with over 8 years experience working in various technologies. Currently I work for [Sage UK Ltd](http://www.sage.co.uk) on the [Sage Accounting](http://www.sageone.com) family of products as a Software Architect.
+I am an experienced engineer with over 12 years experience working in various technologies. Currently I work for [Sage UK Ltd](http://www.sage.co.uk) on the [Sage Business Cloud](https://www.sage.com/en-gb/sage-business-cloud/accounting/) family of products as a Software Architect.
 
-Leading focused and agile SCRUM teams, we are committed to a strategy of continuous improvement and releases. We primarily work on building out global features and platforms to enable and support developers in creating products for a global audience.
-
-The global nature of our team requires effective collaboration with colleagues from around the world, ensuring that our products can be tailored to suit the specific needs of their region.
+My role involes designing and building enterprise grade systems to run at scale with high availability and a focus on continuous improvement and continuous delivery. The global nature of our team, the platform and systems we are building requires effective collaboration with colleagues from around the world, ensuring that our products can be tailored to suit the specific needs of their region.
 
 My work is primarily focused on web technologies that include; 
 
-* Ruby
-* Ruby on Rails
-* Sinatra
-* DotNet Core
-* Git
-* JavaScript
-* ReactJS
-* HTML
-* CSS & SASS
-* Markdown
-
-Alongside this, is a range of methodologies which I apply in my work;
-
-* Semantic Versioning
-* Test Driven Development
-* SOLID Design Principles
-* SCRUM & Agile
-
-As part of my work, I make use of a range of tools that include;
-
-* [Slack](https://slack.com)
-* [GitHub](https://www.github.com)
-* [JIRA](https://atlassian.com/software/jira)
-* [VSCode](https://code.visualstudio.com/)
-* [CodeShip](https://codeship.com/)
-* [Zoom](https://zoom.us/)
-* [Amazon Web Services](https://aws.amazon.com)
-* [Carbon UI Components](https://carbon.sage.com)
+* Ruby + Ruby on Rails
+* C# + DotNet Core
+* JavaScript + TypeScript + ReactJS + Sage's [Open Source UI Component Library - Carbon](https://carbon.sage.com)
+* HTML + CSS
+* Git + GitHub
+* Amazon Web Services - Wherever possible - Automated, Serverless Deployments.
