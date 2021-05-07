@@ -6,7 +6,7 @@ type: pages
 
 ## Hello, I am **Chris Barber**<br/>Software Architect
 
-I am an experienced engineer with over 12 years experience working in various technologies. Currently I work for [Sage UK Ltd](http://www.sage.co.uk) on the [Sage Business Cloud](https://www.sage.com/en-gb/sage-business-cloud/accounting/) family of products as a Software Architect.
+I am an experienced engineer with over 12 years experience working in various technologies. Currently I work for [Sage UK Ltd](http://www.sage.co.uk) on the [Sage Business Cloud](https://www.sage.com/en-gb/sage-business-cloud/accounting/) family of products as a Principal Software Architect.
 
 My role involves designing and building enterprise grade systems to run at scale with high availability and a focus on continuous improvement and continuous delivery. Wherever possible aiming for scripted, automated & serverless deployments. The global nature of our team, the platform and systems we are building requires effective collaboration with colleagues from around the world, ensuring that our products can be tailored to suit the specific needs of their region.
 
