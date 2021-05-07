@@ -4,7 +4,7 @@ menu: profile
 type: pages
 ---
 
-## Hello, I am **Chris Barber**<br/>Software Architect
+## Hello, I am **Chris Barber**<br/>Principal Software Architect
 
 I am an experienced engineer with over 12 years experience working in various technologies. Currently I work for [Sage UK Ltd](http://www.sage.co.uk) on the [Sage Business Cloud](https://www.sage.com/en-gb/sage-business-cloud/accounting/) family of products as a Principal Software Architect.
 
